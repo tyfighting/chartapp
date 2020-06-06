@@ -13,14 +13,6 @@ export default {
   components: {
     IMenu
   },
-  props: {},
-  data() {
-    return {};
-  },
-  computed: {},
-  mounted() {},
-  created() {},
-  methods: {}
 };
 </script>
 
