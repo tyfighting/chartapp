@@ -13,6 +13,10 @@ const routes = [
         path: "",
         name: "HomePage",
         component: () => import("../views/HomePage/HomePage.vue"),
+      },{
+        path: "WaveSurfer",
+        name: "WaveSurfer",
+        component: () => import("../views/WaveSuffer.vue"),
       },
     ],
   },

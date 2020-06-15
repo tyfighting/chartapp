@@ -11,9 +11,11 @@
     "core-js": "^3.6.5",
     "echarts": "^4.8.0",
     "element-ui": "^2.13.2",
+    "custom-e-ui": "git+https://github.com/NidusP/custom-e-ui.git",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "vue-slider-component": "^3.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
